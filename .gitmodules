@@ -1,0 +1,3 @@
+[submodule "shelf-master-frontend"]
+	path = shelf-master-frontend
+	url = https://github.com/Mohammad-Zahran/shelf-master-frontend
