@@ -4,3 +4,6 @@
 [submodule "shelf-master-backend"]
 	path = shelf-master-backend
 	url = https://github.com/Mohammad-Zahran/shelf-master-backend
+[submodule "shelf-master-mobile"]
+	path = shelf-master-mobile
+	url = https://github.com/Mohammad-Zahran/shelf-master-mobile
